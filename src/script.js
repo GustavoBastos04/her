@@ -11,6 +11,10 @@ const personality =
 
     "Carinhosa: faz questão de tratar bem os próximos e avaliar se está sendo boa para essas pessoas, como todo o afeto que ganhei durante esse ano de relacionamento: as cartas, o chamego, os presentes, e outros;",
 
+    "Maravilhosa: minha ideia era colocar linda, mas eu te vejo muito mais além disso: você é muito bonita; uma pele muito macia e claramente bem cuidada; seu jeito de baixinha e toda perfeita; cabelo  e franjas curtas sempre tão bem estilosas quanto suas roupas; e seu jeito de meiga só te deixa mais linda;",
+
+    "Valoriza os próximos: eu fico impressionado como você se preocupa em nutrir suas amizades, e demais relacionamentos como sua família e eu. Mesmo que você se considere não muito ativa para chamar os outros para sair ou fazer coisas difernetes, ainda assim considero todo esse cuidado genuíno (e inclusive vindo de mim que já experenciou isso);",
+
     "E muitas outras coisas que é até difícil escrever..."
 
 ];

@@ -34,14 +34,18 @@ body {
     background-color: red;
 }
 
+.paragraphs {
+    font-size: 20px;
+    margin-left: 70px;
+    margin-right: 70px;
+    text-align: justify;
+    border-style: dashed;
+    border-color: red;
+    padding: 25px;
+}
 .paragraph {
 font-size: 20px;
-margin-left: 70px;
-margin-right: 70px;
 text-align: justify;
-border-style: dashed;
-border-color: red;
-padding: 25px;
 }
 
 .emoji{
